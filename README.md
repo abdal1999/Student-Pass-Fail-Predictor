@@ -72,5 +72,3 @@ python predictor.py
 
 * This is an educational project with synthetic data, intended to demonstrate how classification models work in Python.
 * You can modify or expand the dataset to train with more student records.
-
-```
