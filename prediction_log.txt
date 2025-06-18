@@ -1,0 +1,1 @@
+Input: {'Gender': 'Male', 'School_Type': 'Private', 'Study_Hours': 6.0, 'Attendance_Percentage': 76.0, 'Parent_Education': 'Graduate', 'Urban_or_Rural': 'Urban'}, Prediction: Yes
